@@ -1,5 +1,5 @@
 # FoodHub
-A platform for food
+A platform for food donation and community welfare.
 
 The site was built for Softomania-State level competition of Uttarakhand.
 
